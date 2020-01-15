@@ -1,5 +1,5 @@
 EXTENDED DATA SUMMARY
-from Finotello et al. (Sci.Rep., 2012)
+from Finotello et al. (Sci.Rep., 2020)
 https://doi.org/10.1038/s41598-019-56992-w
 
 FILE "PCA_ALL.xlsx"
